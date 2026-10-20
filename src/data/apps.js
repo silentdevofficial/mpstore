@@ -25,5 +25,14 @@ export const mpApps = [
     size: "118MB",
     downloadLink: "https://www.mediafire.com/file/lrd3hxtazm8qf3k/nexusdrop%2528v1%2529.apk/file",
     image: "/images/nexusdropicon.png"
+  },
+  {
+    id: 4,
+    name: "MindRise",
+    description: "Advanced Android Alarm App",
+    version: "1.0.0",
+    size: "1MB",
+    downloadLink: "https://www.mediafire.com/file/uaogesbfjkn793y/MindRise%2528v1%2529.apk/file",
+    image: "/images/mindrise.png"
   }
 ];
