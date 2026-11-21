@@ -5,7 +5,7 @@ export const mpApps = [
     description: "Custom Sinhala, English, and Japanese layouts",
     version: "1.0.0",
     size: "65MB",
-    downloadLink: "https://www.mediafire.com/file/gvlpd82n2jnjr9w/MPBOARD(V1).apk/file",
+    downloadLink: "https://www.mediafire.com/file/5uqrncuha6ql5wd/MPBOARD%2528V1%2529.apk/file",
     image: "/images/MP_Official_image.png"
   },
   {
