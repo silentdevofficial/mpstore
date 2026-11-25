@@ -41,7 +41,7 @@ export const mpApps = [
     description: "World Best Sinhala , English Japanase keyboard",
     version: "1.0.0",
     size: "3.10MB",
-    downloadLink: "https://www.mediafire.com/file/241m4v31qv8emcn/oniboard%2528v1%2529.apk/file",
+    downloadLink: "https://oniboardmkct.vercel.app/",
     image: "/images/oniboard.png"
   }
 ];
