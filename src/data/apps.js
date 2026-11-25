@@ -34,5 +34,14 @@ export const mpApps = [
     size: "1MB",
     downloadLink: "https://www.mediafire.com/file/uaogesbfjkn793y/MindRise%2528v1%2529.apk/file",
     image: "/images/mindrise.png"
+  },
+  {
+    id: 5,
+    name: "OniBoard",
+    description: "World Best Sinhala , English Japanase keyboard",
+    version: "1.0.0",
+    size: "3.10MB",
+    downloadLink: "https://www.mediafire.com/file/241m4v31qv8emcn/oniboard%2528v1%2529.apk/file",
+    image: "/images/oniboard.png"
   }
 ];
